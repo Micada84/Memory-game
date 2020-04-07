@@ -1,0 +1,17 @@
+body{
+    background-image: url('img/background.jpg');
+}
+
+#box{
+    margin-top: 100px !important;
+    width: 400px;
+    height: 404px;
+    margin: auto;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    float:left; 
+    
+}
